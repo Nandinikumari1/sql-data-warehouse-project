@@ -29,9 +29,6 @@ The goal is to transform raw business data into meaningful insights that support
 # 🏗️ Data Architecture
 
 The project follows the **Medallion Architecture** approach:
-<p align="center">
-  <img src="assets/data_architecture.png" alt="Data Architecture Diagram" width="900">
-</p>
 
 ## Bronze Layer
 - Stores raw data from source systems
