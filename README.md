@@ -30,7 +30,7 @@ The goal is to transform raw business data into meaningful insights that support
 
 The project follows the **Medallion Architecture** approach:
 <p align="center">
-  <img src="assets/data_architecture.png" alt="Data Architecture Diagram" width="900">
+  <img src="assets/data_architecture.png.drawio" alt="Data Architecture Diagram" width="900">
 </p>
 
 ## Bronze Layer
